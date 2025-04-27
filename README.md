@@ -1,7 +1,7 @@
-# Hi there 👋  
+# Hi there 👋
 I'm **Abhinav Singh**, a passionate **Software Developer** with a flair for creating efficient, user-friendly, and scalable web applications. 🚀  
 
----
+
 ---
 
 ## 🌟 About Me  
@@ -51,4 +51,4 @@ Here’s a glimpse of what I’ve built so far:
 ## 💡 Let’s Connect!  
 Feel free to explore my repositories and reach out for collaboration or discussions about exciting projects! Together, we can build something amazing! ✨  
 
----
+------
