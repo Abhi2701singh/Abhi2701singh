@@ -4,7 +4,7 @@ I'm **Abhinav Singh**, a passionate **Software Developer** with a flair for crea
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me : 
 - 🔭 **Currently Working On**: Enhancing my existing projects and exploring new web development ideas.  
 - 🌱 **Currently Learning**: Advanced concepts in **Django**, **JavaScript**, and **responsive web design** to build dynamic and interactive applications.  
 - 👯 **Looking to Collaborate On**: Open-source projects, especially those related to **web development** and **educational tools**.  
@@ -16,7 +16,7 @@ I'm **Abhinav Singh**, a passionate **Software Developer** with a flair for crea
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects  :
 Here’s a glimpse of what I’ve built so far:  
 
 - 🎓 **[Student Enrollment System](https://github.com/Abhi2701singh/Student_Enrollment_System-Django_framework-)**  
@@ -36,14 +36,14 @@ Here’s a glimpse of what I’ve built so far:
 
 ---
 
-## 🛠️ My Skills  
+## 🛠️ My Skills  :
 - **Languages**: Python, HTML, CSS  
 - **Frameworks**: Django  
 - **Tools**: Git, GitHub  
 
 ---
 
-## 🎓 Education  
+## 🎓 Education  :
 - **B.Tech** from **United Group of Institution**  
 
 ---
