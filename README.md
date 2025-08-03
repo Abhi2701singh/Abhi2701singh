@@ -245,11 +245,29 @@ const Abhinav_Singh = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhi2701singh&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Abhinav Singh"/>
 </p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Contribution Graph</b>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi2701singh&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Contributor Stats</b>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Abhi2701singh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>🐍 Snake Game Animation</b>
+
+<p align="center">
+  <img src="https://github.com/Abhi2701singh/Abhi2701singh/blob/main/dist/github-contribution-grid-snake.gif" alt="Snake Game" />
+</p>
+
+----------------------
+
+## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support :)</b>
+
+<p align="center"> I'd love your support! If you find my work valuable, you can help by referring me for **internships**, **job opportunities**, or **collaborations**. If you have an exciting project, I'd be thrilled to contribute—let's build something amazing together! 🚀 </p>
 
 ----------------------
 
