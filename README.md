@@ -259,15 +259,14 @@ const Abhinav_Singh = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>🐍 Snake Game Animation</b>
 
-<p align="center">
-  <img src="https://github.com/Abhi2701singh/Abhi2701singh/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi2701singh&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff" alt="GitHub Activity Graph" />
+</div>
 
-----------------------
-
-## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support :)</b>
-
-<p align="center"> I'd love your support! If you find my work valuable, you can help by referring me for **internships**, **job opportunities**, or **collaborations**. If you have an exciting project, I'd be thrilled to contribute—let's build something amazing together! 🚀 </p>
+<!-- Snake animation will appear here once workflow runs -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abhi2701singh/Abhi2701singh/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
 
 ----------------------
 
