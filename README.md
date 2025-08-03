@@ -260,7 +260,7 @@ const Abhinav_Singh = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>🐍 Snake Game Animation</b>
 
 <p align="center">
-  <img src="https://github.com/Abhi2701singh/Abhi2701singh/blob/main/dist/github-contribution-grid-snake.gif" alt="Snake Game" />
+  <img src="https://github.com/Abhi2701singh/Abhi2701singh/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 ----------------------
