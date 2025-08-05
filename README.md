@@ -22,7 +22,7 @@
       <strong>"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."</strong>
     </p>
     <p style="color: #FFD700; font-size: 14px; margin: 10px 0 0 0; text-align: center;">
-      — Steve Jobs
+      — Steve Jobs.
     </p>
   </div>
 </div>
