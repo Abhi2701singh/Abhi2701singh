@@ -1,3 +1,5 @@
+<h1 align="center">🙋‍♂️ Hello, I'm <b>Abhinav Singh</b></h1>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Abhinav+Singh;I'm+Software+Developer;I'm+Web+Developer;I'm+Django+Developer;I'm+@+Abhi2701singh"></p>
 <h3 align="center">Software Developer | B.Tech CSE Student | United Group of Institution</h3>
