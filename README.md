@@ -10,7 +10,7 @@
 
 - 💬 Ask me about: **Python, Django, Web Development, Full Stack Development**
 
-- 📫 Reach out to me: **abhinavsi434@gmail.com** (@Abhi2701singh)
+- 📫 Reach out to me: **erabhinav2701@gmail.com** 
 
 ----------------------
 
